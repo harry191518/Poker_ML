@@ -1,5 +1,10 @@
 """
-Author : RLai
+
+Author : RLai(Yi-Hao Lai)
+file name : Poker.py
+machine learing 
+let machine know how to play poker game 
+
 """
 
 import csv as csv
